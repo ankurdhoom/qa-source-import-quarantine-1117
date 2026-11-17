@@ -16,3 +16,5 @@ This fixture contains no real user data and is intended for staging QA only.
 ## Contact
 
 QA contact: testing1@skills-layer.com
+
+Secondary QA contact: testing2@skills-layer.com
